@@ -41,5 +41,5 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = David Mongeau-Petitpas
-	email = dmongeau.petitpas@gmail.com
+	name = Lucie Le Touze
+	email = lucieletouze@gmail.com
