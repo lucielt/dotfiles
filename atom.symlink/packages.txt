@@ -1,4 +1,12 @@
-atom-beautify@0.30.9
+atom-beautify@0.33.1
+busy-signal@1.4.3
+esformatter@2.3.0
+intentions@1.1.5
 jshint@1.8.6
 language-arduino@0.4.3
+language-babel@2.85.0
+language-ejs@0.4.0
+linter@2.2.0
+linter-eslint@8.4.1
+linter-ui-default@1.7.1
 

@@ -1,6 +1,8 @@
 "*":
   "atom-jshint":
     hintOnModify: false
+  "atom-package-deps":
+    ignored: []
   "autocomplete-plus":
     confirmCompletion: "tab"
   core:
@@ -119,6 +121,7 @@
     sortAscending: false
   "tree-view":
     hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
   whitespace: {}
